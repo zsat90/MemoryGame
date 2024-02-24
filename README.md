@@ -6,7 +6,7 @@ Looking for ways to improve my skills I decided to build a fun but practical pro
 
 The game I developed is simple yet engaging. It consists of a grid of cards that are initially presented face down. Players turn over two cards at a time, with the goal of finding matching pairs. Matches remain face up, while non-matches are turned back over. The game continues until all pairs are found. This project allowed me to experiment with and implement various JavaScript concepts, including closures, the 'this' keyword, and the event loop, among others
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xIb4MpSgRQI)
 
 # Development Environment
 
